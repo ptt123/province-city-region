@@ -15716,3 +15716,5 @@ export default [
     ]
   }
 ]
+
+let test = '122'
